@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](.\assets\images\Screenshot.jpg)
+![Screenshot](Screenshot.jpg)
 
 
 ### Links
