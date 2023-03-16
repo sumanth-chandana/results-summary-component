@@ -37,7 +37,7 @@
     align-items: center;
     display: flex;
     font-family: "Hanken", "Grotesk", sans-serif;
-    max-width: 650px;
+    max-width: 700px;
     margin: 15vh auto;
     flex-wrap: wrap;
 }
@@ -82,26 +82,27 @@ div.r-circle .outof{
     flex-direction: column;
     padding: 30px;
     border-radius: 0 20px 20px 0;
-    box-shadow: var(--Dark-gray-blue) 5px 10px 30px 0.1px;
+    box-shadow: var(--Dark-gray-blue) 5px 1px 10px 0.09px;
     
 }
 .h-summary{
     margin: 0;
     font-weight: 700;
 }
-ul>div{
+ul>li{
     list-style-type: none;
     display: flex;
     text-align: left;
     border-radius: 10px;
     flex-direction: column;
-    margin: 0 0 20px -50px;
-    padding: 10px;
-}
-li{ 
-    border-radius: 10px;
+    margin: 0 0 20px -30px;
     padding: 5px;
 }
+li>div{ 
+    border-radius: 10px;
+    padding: 10px;
+}
+
 .list-item{
     margin: 0 80px 0 0;
 }
