@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/results-summary-component-STeKWQ9aKD](https://www.frontendmentor.io/solutions/results-summary-component-STeKWQ9aKD)
+- Live Site URL: [https://sumanth-chandana.github.io/results-summary-component/](https://sumanth-chandana.github.io/results-summary-component/m)
 
 ## My process
 
